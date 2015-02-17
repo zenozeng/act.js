@@ -2,6 +2,12 @@
 
 Create Adobe Color Table (.act) files using JavaScript
 
+## FAQ
+
+### Use .act in GIMP?
+
+In Palettes, select a palette and right click it, choose import palette.
+
 ## Ref
 
 - [Adobe Photoshop File Formats Specification](http://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
