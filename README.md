@@ -2,6 +2,16 @@
 
 Create Adobe Color Table (.act) files using Uint8Array, Blob API and FileReader API.
 
+## Usage
+
+```javascript
+var generate = require('./act.js');
+var colors = [[255, 0, 0], [0, 255, 0], [0, 0, 255]];
+generate(colors, function(err, dataURL) {
+    console.log(dataURL);
+});
+```
+
 ## FAQ
 
 ### Use .act in GIMP?
