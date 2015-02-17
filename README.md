@@ -1,6 +1,6 @@
 # act.js
 
-Create Adobe Color Table (.act) files using JavaScript
+Create Adobe Color Table (.act) files using Uint8Array, Blob API and FileReader API.
 
 ## FAQ
 
