@@ -1,0 +1,24 @@
+{
+  "name": "act-js",
+  "version": "0.1.0",
+  "description": "Create Adobe Color Table (.act) files using Uint8Array, Blob API and FileReader API.",
+  "main": "act.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenozeng/act.js.git"
+  },
+  "keywords": [
+    "adobe",
+    "color",
+    "table",
+    "act"
+  ],
+  "author": "Zeno Zeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenozeng/act.js/issues"
+  }
+}
