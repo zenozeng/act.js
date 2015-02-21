@@ -4,6 +4,7 @@
   "description": "Create Adobe Color Table (.act) files using Uint8Array, Blob API and FileReader API.",
   "main": "act.js",
   "scripts": {
+      "build": "browserify act.js -s ACT -o dist/act.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

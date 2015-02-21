@@ -4,6 +4,10 @@ Create Adobe Color Table (.act) files using Uint8Array, Blob API and FileReader 
 
 ## Usage
 
+### Browser
+
+A UMD version can be found at dist/.
+
 ### Browserify
 
 ```bash
